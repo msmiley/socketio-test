@@ -1,0 +1,14 @@
+{
+  "name": "socketio-test",
+  "version": "0.0.1",
+  "description": "quick test for socket.io servers",
+  "author": "Mike Smiley <msmiley@alumni.rice.edu>",
+  "url": "https://github.com/msmiley/socketio-test.git",
+  "repository": "msmiley/socketio-test.git",
+  "license": "ISC",
+  "scripts": {},
+  "type": "module",
+  "dependencies": {
+    "socket.io-client": "^4.7.5"
+  }
+}
